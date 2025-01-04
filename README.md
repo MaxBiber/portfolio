@@ -13,4 +13,4 @@ Hello! I'm Max Biber, a passionate Data Scientist and Developer with a strong ba
 
 **Predicting Waze User Churn with Data Analytics.**
 ![image](waze.png)
-[Read More] 
+[Read More] (https://github.com/MaxBiber/statistics)
