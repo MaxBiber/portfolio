@@ -9,6 +9,6 @@ Hello! I'm Max Biber, a passionate Data Scientist and Developer with a strong ba
 - **Web Development**: I develop web applications using Django to streamline processes and enhance user experiences.
 - **Statistical Testing**: I perform statistical tests to validate hypotheses and ensure data integrity.
 
-## MY PROJECT
+## MY PROJECTS
 
 You can find more about my work and projects on my [GitHub profile](https://github.com/MaxBiber).
