@@ -1,4 +1,4 @@
- ## ABOUT ME
+## ABOUT ME
 
 Hello! I'm Max Biber, a Data Scientist and Django Developer with a strong background in mathematics and statistics. I have a passion for analyzing data and developing applications that optimize business processes. I am also an avid chess player and enjoy participating in tournaments. Additionally, I have a background in swimming and lifesaving, holding certifications in both areas.
 
