@@ -58,6 +58,7 @@ Hello! I'm Max Biber, a Data Scientist and Django Developer with a strong backgr
 ## MY PROJECTS
 
 **Predicting Waze User Churn with Data Analytics.**
+
 ![image](waze_img.png)
 
 [Read More]
