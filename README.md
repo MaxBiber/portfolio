@@ -61,5 +61,5 @@ Hello! I'm Max Biber, a Data Scientist and Django Developer with a strong backgr
 
 ![image](waze_img.png)
 
-[Read More]
+[Read More](https://github.com/MaxBiber/Waze/blob/main/waze_notebook.ipynb)
 
