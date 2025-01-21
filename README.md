@@ -1,4 +1,4 @@
-## ABOUT ME
+ ## ABOUT ME
 
 Hello! I'm Max Biber, a Data Scientist and Django Developer with a strong background in mathematics and statistics. I have a passion for analyzing data and developing applications that optimize business processes. I am also an avid chess player and enjoy participating in tournaments. Additionally, I have a background in swimming and lifesaving, holding certifications in both areas.
 
@@ -17,7 +17,7 @@ Hello! I'm Max Biber, a Data Scientist and Django Developer with a strong backgr
 - Created dynamic dashboards and contributed to improving business performance indicators (KPIs).
 
 **2021: Various Temporary Missions in Commerce and Distribution**
-- Worked as a order preparer, cashier, and restaurant employee managing payments, orders, stocks, and cash handling.
+- Worked as an order preparer, cashier, and restaurant employee managing payments, orders, stocks, and cash handling.
 - Lifeguard at a vacation center.
 
 **2015-2016: Professional Immersion Internships**
@@ -44,10 +44,13 @@ Hello! I'm Max Biber, a Data Scientist and Django Developer with a strong backgr
 - **Data Science**: XGBoost, Prophet, ARIMA, SARIMA
 - **Web Development**: Django
 - **Tools**: Sketchup, 3D printing, statistical analysis tools
+- **Cloud and Big Data**: AWS, Databricks
+- **Machine Learning**: TensorFlow, Keras, PyTorch
+- **Other**: Git, SAS, LaTeX, Power BI, Excel/VBA
 
 ### Interests
 
-- **Chess**: Participated in various tournois, including the AMU faculty tournament in 2022.
+- **Chess**: Participated in various tournaments, including the AMU faculty tournament in 2022.
 - **Swimming and Lifesaving**: Competed in triathlons and holds certifications in lifesaving (BSB and BNS).
 
 ### Languages
