@@ -62,13 +62,13 @@ Hello! I'm Max Biber, a Data Scientist and Django Developer with a strong backgr
 
 **Predicting Waze User Churn with Data Analytics.**
 
-<img src="waze_img.png" alt="Waze Image" width="400" height="400"/>
+![image](waze_img.png)
 
 [Read More](https://github.com/MaxBiber/Waze/blob/main/waze_notebook.ipynb)
 
 **Marine Fish Data Analysis Dashboard.**
 
-<img src="icon.png" alt="Marine Fish Image" width="390" height="390"/>
+![image](icon.png)
 
 [Read More](https://github.com/MaxBiber/Fishing)
 
