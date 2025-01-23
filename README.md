@@ -68,5 +68,5 @@ Hello! I'm Max Biber, a Data Scientist and Django Developer with a strong backgr
 
 **Marine Fish Data Analysis Dashboard.**
 
-![image](icon.png)
+![image](icon.png){:width="100%"}
 
