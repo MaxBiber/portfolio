@@ -70,3 +70,5 @@ Hello! I'm Max Biber, a Data Scientist and Django Developer with a strong backgr
 
 <img src="icon.png" alt="Marine Fish Image" width="390" height="390"/>
 
+[Read More](https://github.com/MaxBiber/Fishing)
+
