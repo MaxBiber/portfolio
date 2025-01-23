@@ -1,3 +1,6 @@
 title: Max Biber
 logo: Max_Biber.jpg
 theme: jekyll-theme-minimal
+markdown: kramdown
+include:
+  - assets/styles.css
