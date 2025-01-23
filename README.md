@@ -66,3 +66,7 @@ Hello! I'm Max Biber, a Data Scientist and Django Developer with a strong backgr
 
 [Read More](https://github.com/MaxBiber/Waze/blob/main/waze_notebook.ipynb)
 
+**Marine Fish Data Analysis Dashboard.**
+
+![image](icone.png)
+
