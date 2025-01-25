@@ -41,12 +41,12 @@ Hello! I'm Max Biber, a Data Scientist and Django Developer with a strong backgr
 ### Skills
 
 - **Programming Languages**: Python, R, SQL
-- **Data Science**: XGBoost, Prophet, ARIMA, SARIMA
+- **Data Science**: XGBoost, Prophet, ARIMA, SARIMA, Numpy, Pandas
 - **Web Development**: Django
-- **Tools**: Sketchup, 3D printing, statistical analysis tools
+- **Tools**: statistical analysis tools
 - **Cloud and Big Data**: AWS, Databricks
-- **Machine Learning**: TensorFlow, Keras, PyTorch
-- **Other**: Git, SAS, LaTeX, Power BI, Excel/VBA
+- **Machine Learning**: TensorFlow, Keras
+- **Other**: Git, SAS, LaTeX, Power BI, Excel, Google cloud
 
 ### Interests
 
