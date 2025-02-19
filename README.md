@@ -54,11 +54,10 @@ Hello! I'm Max Biber, a **Data Scientist** and **Django Developer** with a stron
 
 - **Programming Languages**: Python, R, SQL  
 - **Data Science**: XGBoost, Prophet, ARIMA, SARIMA, Numpy, Pandas  
-- **Web Development**: Django  
-- **Tools**: Statistical Analysis Tools  
-- **Cloud and Big Data**: AWS, Databricks  
+- **Web Development**: Django, HTML/CSS
+- **Tools**: Statistical Analysis Tools   
 - **Machine Learning**: TensorFlow, Keras  
-- **Other**: Git, SAS, LaTeX, Power BI, Excel, Google Cloud  
+- **Other**: Git, SAS, LaTeX, Power BI, Excel
 
 ---
 
