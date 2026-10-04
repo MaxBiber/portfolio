@@ -22,7 +22,8 @@
   --fs-h3: 1.25rem;
   --fs-body: 1rem;
 
-  --bs: 0.25em 0.25em 0.75em rgba(0, 0, 0, 0.25),
+  --bs:
+    0.25em 0.25em 0.75em rgba(0, 0, 0, 0.25),
     0.125em 0.125em 0.25em rgba(0, 0, 0, 0.15);
 }
 
@@ -401,7 +402,16 @@ header {
 }
 
 .portfolio__img {
-  transition: transform 750ms cubic-bezier(0.5, 0, 0.5, 1), opacity 250ms linear;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  transition:
+    transform 750ms cubic-bezier(0.5, 0, 0.5, 1),
+    opacity 250ms linear;
+}
+.portfolio__item:last-child .portfolio__img {
+  object-fit: contain;
+  padding: 1.5em; /* optionnel : laisse un peu d'air autour du logo */
 }
 
 .portfolio__item:focus {
